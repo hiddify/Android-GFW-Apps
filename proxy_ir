@@ -25,7 +25,7 @@ com.fox2code.mmm
 com.github.libretube
 com.gof.global
 com.google.android.apps.authenticator2
-com.google.android.apps.docs
+
 com.google.android.apps.googlevoice
 com.google.android.apps.maps
 com.google.android.apps.mapslite
@@ -34,9 +34,7 @@ com.google.android.apps.recorder
 com.google.android.apps.subscriptions.red
 com.google.android.apps.tachyon
 com.google.android.apps.tasks
-com.google.android.apps.translate
 com.google.android.gms
-com.google.android.googlequicksearchbox
 com.google.android.keep
 com.google.android.wearable.app
 com.google.android.youtube
@@ -61,7 +59,7 @@ com.reddit.frontpage
 com.riotgames.league.wildrift
 com.sec.android.app.samsungapp
 com.sensopia.magicplan
-com.server.auditor.ssh.client
+
 com.skype.raider
 com.smd.douyin18.app
 com.smd.iwantu.app
@@ -17405,7 +17403,6 @@ ir.greenint.debitmanagerfree
 com.avallonalliance.jumpout
 com.gamecircus.HorseFrenzy
 com.sketchbookexpress
-ir.eadl.edalatehamrah
 ir.abdollah_182.kashfol_mataleb
 ir.sharjamad.app
 com.peyman.tv
