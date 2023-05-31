@@ -64,7 +64,6 @@ com.saipa.saipa_users
 com.samanpr.blu
 com.samserial.pishvazzv
 com.sanags.a4f3client
-com.server.auditor.ssh.client
 com.shatelland.namava.mobile
 com.sheypoor.mobile
 com.shmapp
@@ -393,7 +392,6 @@ com.imo.android.imoim
 us.zoom.videomeetings
 com.tencent.mm
 com.gapafzar.messenger
-com.niksoftware.snapseed
 com.lyrebirdstudio.collage
 com.commsource.beautyplus
 com.xvideostudio.videoeditor
@@ -569,3 +567,10 @@ com.baladmaps
 ir.eadl.edalatehamrah
 im.vector.app
 de.spiritcroc.riotx
+com.google.android.apps.tachyon
+com.google.android.apps.nbu.files
+com.jgeek00.adguard_home_manager
+com.hiddify.hiddifyproxy.meta
+pl.solidexplorer2
+io.wallpaperengine.weclient
+com.v2ray.ang
